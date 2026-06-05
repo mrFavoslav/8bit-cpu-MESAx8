@@ -1,4 +1,4 @@
-# MESAx8
+# MESAx8 - Minimal Extensible System Architecture x8
 
 I'll make a more detailed README in the near future, but for now, this repository is mainly a host of files for people who want to have a look at my progress on an 8-bit CPU design.
 
