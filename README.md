@@ -30,3 +30,6 @@ Here is a quick overview of what you will find inside the Logisim project, as it
 * **`adder_4bit`** — Used in the 4-bit ALU.
 * **`comp_4bit`** — Comparator, used in the 4-bit ALU.
 * **`add_sub_4bit`** — Adder/Subtractor, used in the 4-bit ALU.
+
+### Follow the Progress
+I'll be documenting the development process - design decisions, schematics, and lessons learned - on my blog at [favoslav.cz/blog](https://www.favoslav.cz/blog). If you're interested in the deeper reasoning behind the architecture choices, that's the place to follow along.
